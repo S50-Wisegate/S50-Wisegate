@@ -16,3 +16,5 @@
     Testing the website template successfully
     
     Creating UPDATES.md
+    
+    Add three references into main/misc/references.html
