@@ -18,3 +18,10 @@
     Creating UPDATES.md
     
     Add three references into main/misc/references.html
+
+
+*****Update: 14/10/21 by Jeff*****
+
+    Updated three-slides presentation: fill in the contents related to RISKs
+    
+    
